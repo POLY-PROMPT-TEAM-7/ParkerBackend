@@ -1,6 +1,6 @@
-# BackendPlaceholder API
+# ParkerBackend API
 
-BackendPlaceholder is a FastAPI backend that turns uploaded learning materials into a queryable knowledge graph. It is built for student-facing workflows: upload course content, run AI extraction, and query relationships/subgraphs for study assistance.
+ParkerBackend is a FastAPI backend that turns uploaded learning materials into a queryable knowledge graph. It is built for student-facing workflows: upload course content, run AI extraction, and query relationships/subgraphs for study assistance.
 
 This README is intentionally API-first and hackathon-ready.
 
